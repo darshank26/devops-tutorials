@@ -1,3 +1,2 @@
 from first branch
 hello new
-hi
